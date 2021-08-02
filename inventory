@@ -1,1 +1,2 @@
-kbl
+#some_ubuntu  apache_package=apache2 php_package=libapache2-mod-php
+kbl apache_package=httpd php_package=php
